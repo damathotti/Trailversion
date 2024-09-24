@@ -1,0 +1,7 @@
+1.git can store the data in single place (git collaborator)
+
+2.git also has allthe previous version in it (git version control)
+
+github - platform
+
+git is service 
